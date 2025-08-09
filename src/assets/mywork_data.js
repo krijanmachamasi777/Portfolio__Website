@@ -6,6 +6,7 @@ import project5_img from '../assets/project_5.svg'
 import project6_img from '../assets/project_6.svg'
 import Netflix_img from '../assets/Netflix.png'
 import Todo_list from '../assets/Todo_list.png'
+import Basic_project from '../assets/Basic_projects.png'
 
 const mywork_data = [
     {
@@ -23,7 +24,8 @@ const mywork_data = [
     {
         w_no:3,
         w_name:"Web design",
-        w_img:project3_img
+        w_img:Basic_project,
+        link:"https://basic-html-css-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=lqdIEOLw38HNnetC3eCdOGymqUWVWgTK"
     },
     {
         w_no:4,
