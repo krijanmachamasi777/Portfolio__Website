@@ -1,12 +1,9 @@
-import project1_img from '../assets/project_1.svg'
-import project2_img from '../assets/project_2.svg'
-import project3_img from '../assets/project_3.svg'
-import project4_img from '../assets/project_4.svg'
-import project5_img from '../assets/project_5.svg'
-import project6_img from '../assets/project_6.svg'
 import Netflix_img from '../assets/Netflix.png'
 import Todo_list from '../assets/Todo_list.png'
 import Basic_project from '../assets/Basic_projects.png'
+import Demo_website from '../assets/Demo_website.png'
+import project5_img from '../assets/project_5.svg'
+import project6_img from '../assets/project_6.svg'
 
 const mywork_data = [
     {
@@ -30,7 +27,8 @@ const mywork_data = [
     {
         w_no:4,
         w_name:"Web design",
-        w_img:project4_img
+        w_img:Demo_website,
+        link:"https://demo-website-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=oGCcV0OgI85hRzQp41tkLBp7HZYMeo7d"
     },
     {
         w_no:5,
