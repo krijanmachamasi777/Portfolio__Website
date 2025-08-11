@@ -10,7 +10,7 @@ const mywork_data = [
         w_no:1,
         w_name:"Web design",
         w_img:Netflix_img,
-        link:"https://movie-ui-clone-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=yqnxDjqkBR3sUaER5xdjbnyxQRrLpsqP"
+        link:"https://movie-ui-clone-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=xK1csMix88qhiOaFTxUqNIwxRXYoM5ye"
     },
     {
         w_no:2,
