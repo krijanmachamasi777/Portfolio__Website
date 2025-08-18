@@ -2,7 +2,7 @@ import Netflix_img from '../assets/Netflix.png'
 import Todo_list from '../assets/Todo_list.png'
 import Basic_project from '../assets/Basic_projects.png'
 import Demo_website from '../assets/Demo_website.png'
-import project5_img from '../assets/project_5.svg'
+import Weather_App from '../assets/Weather_App.png'
 import project6_img from '../assets/project_6.svg'
 
 const mywork_data = [
@@ -33,7 +33,8 @@ const mywork_data = [
     {
         w_no:5,
         w_name:"Web design",
-        w_img:project5_img
+        w_img:Weather_App,
+        link:"https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=3Z5g1H5g1H5g1H5g1H5g1H5g1H5g1H5g"
     },
     {
         w_no:6,
