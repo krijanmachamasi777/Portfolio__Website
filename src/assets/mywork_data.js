@@ -1,6 +1,6 @@
 import Netflix_img from '../assets/Netflix.png'
 import Todo_list from '../assets/Todo_list.png'
-import Basic_project from '../assets/Basic_projects.png'
+import Basic_project from '../assets/Basic_project.png'
 import Demo_website from '../assets/Demo_website.png'
 import Weather_App from '../assets/Weather_App.png'
 import project6_img from '../assets/project_6.svg'
