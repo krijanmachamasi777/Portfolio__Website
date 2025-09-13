@@ -23,7 +23,7 @@ const mywork_data = [
     w_no: 3,
     w_name: "Web design",
     w_img: Weather_App,
-    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=CSpBZBy6dSJEvXytXrcD6coQa1OCQybH",
+    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=eNSAlkl5tDX6B5OlzkihSq42kO0FqxY5",
   },
   {
     w_no: 4,
