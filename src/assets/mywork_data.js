@@ -9,43 +9,46 @@ import E_Commerce_website from "../assets/Ecommerce.png";
 const mywork_data = [
   {
     w_no: 1,
-    w_name: "Web design",
+    title: "Netflix UI Clone",
+    desc: "A Netflix homepage clone built with React JS, focusing on layout, styling, responsive design. Here I used firebase for authentication.",
     w_img: Netflix_img,
     link: "https://movie-ui-clone-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=xK1csMix88qhiOaFTxUqNIwxRXYoM5ye",
   },
-   {
+  {
     w_no: 2,
-    w_name: "Web design",
+    title: "E-Commerce Website",
+    desc: "An online store built with React and Ant Design. Includes product listing, shopping cart, and checkout workflow.",
     w_img: E_Commerce_website,
     link: "https://e-commerce-website-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=V1v6rbaBLyqi7nrcTNHg1jwyOXcbx05V",
   },
   {
     w_no: 3,
-    w_name: "Web design",
+    title: "Weather App",
+    desc: "A weather forecast application using React and OpenWeather API to display live weather data with responsive UI.",
     w_img: Weather_App,
     link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=eNSAlkl5tDX6B5OlzkihSq42kO0FqxY5",
   },
   {
     w_no: 4,
-    w_name: "Web design",
+    title: "Rock Paper Scissors Game",
+    desc: "A simple game built with React and JavaScript logic to practice state management and event handling.",
     w_img: Rockpaer,
     link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=5OcYWZVVSA1Kcfupzv0sOFgh1ByJIosp",
   },
-  
-
   {
     w_no: 5,
-    w_name: "Web design",
+    title: "Basic HTML & CSS Project",
+    desc: "A beginner project created with pure HTML and CSS to strengthen fundamentals of layout and styling.",
     w_img: Basic_project,
     link: "https://basic-html-css-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=lqdIEOLw38HNnetC3eCdOGymqUWVWgTK",
   },
   {
     w_no: 6,
-    w_name: "Web design",
+    title: "To-Do List App",
+    desc: "A task manager built with React that allows adding, deleting, and managing tasks with local state.",
     w_img: Todo_list,
     link: "https://todo-list-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=MVXluYlRA3rAkGAUGl3BCK6pegjl7WSb",
   },
- 
 ];
 
 export default mywork_data;
