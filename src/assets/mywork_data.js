@@ -26,14 +26,14 @@ const mywork_data = [
     title: "Weather App",
     desc: "A weather forecast application using React and OpenWeather API to display live weather data with responsive UI.",
     w_img: Weather_App,
-    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=eNSAlkl5tDX6B5OlzkihSq42kO0FqxY5",
+    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=ESQ1gVoS8Jk7cRIKYyLgrJ78zXb4hdhF",
   },
   {
     w_no: 4,
     title: "Rock Paper Scissors Game",
     desc: "A simple game built with React and JavaScript logic to practice state management and event handling.",
     w_img: Rockpaer,
-    link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=5OcYWZVVSA1Kcfupzv0sOFgh1ByJIosp",
+    link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=m05LzVRPtWPfH2KCXgTXb0PVO87HHeHB",
   },
   {
     w_no: 5,
