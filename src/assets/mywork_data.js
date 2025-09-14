@@ -33,7 +33,7 @@ const mywork_data = [
     title: "Rock Paper Scissors Game",
     desc: "A simple game built with React and JavaScript logic to practice state management and event handling.",
     w_img: Rockpaer,
-    link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=t6JUu26tnrlwPNt720vlY76a7FB1RT80",
+    link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=rZ9ksIQHXYdSWQqaltU2u247xU95UwAM",
   },
   {
     w_no: 5,
@@ -47,7 +47,7 @@ const mywork_data = [
     title: "To-Do List App",
     desc: "A task manager built with React that allows adding, deleting, and managing tasks with local state.",
     w_img: Todo_list,
-    link: "https://todo-list-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=MVXluYlRA3rAkGAUGl3BCK6pegjl7WSb",
+    link: "https://todo-list-8znja2hpp-krijanmachamasi777s-projects.vercel.app?_vercel_share=sKmnkMwgj5ukwsFkDnzsEdzOhx0mNfD3",
   },
 ];
 
