@@ -33,7 +33,7 @@ const mywork_data = [
     title: "Rock Paper Scissors Game",
     desc: "A simple game built with React and JavaScript logic to practice state management and event handling.",
     w_img: Rockpaer,
-    link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=m05LzVRPtWPfH2KCXgTXb0PVO87HHeHB",
+    link: "https://rock-paper-scissor-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=t6JUu26tnrlwPNt720vlY76a7FB1RT80",
   },
   {
     w_no: 5,
