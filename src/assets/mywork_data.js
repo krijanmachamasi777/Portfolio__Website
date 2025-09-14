@@ -19,7 +19,7 @@ const mywork_data = [
     title: "E-Commerce Website",
     desc: "An online store built with React and Ant Design. Includes product listing, shopping cart, and checkout workflow.",
     w_img: E_Commerce_website,
-    link: "https://e-commerce-website-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=V1v6rbaBLyqi7nrcTNHg1jwyOXcbx05V",
+    link: "https://e-commerce-website-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=UAlyHr94RjtPJnxbkEnt63h88goisX4j",
   },
   {
     w_no: 3,
