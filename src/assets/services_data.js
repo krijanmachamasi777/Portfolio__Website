@@ -15,7 +15,7 @@ const Services_Data = [
     s_no: "03",
     s_name: "API Integration",
     s_desc:
-      "I connect websites with external APIs to fetch and display real-time data.",
+      "I connect websites with external APIs to fetch and display real-time data, such as product listings, weather updates, and more.",
   },
   {
     s_no: "04",
