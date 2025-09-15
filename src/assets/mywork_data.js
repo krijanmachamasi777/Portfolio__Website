@@ -12,7 +12,7 @@ const mywork_data = [
     title: "Netflix UI Clone",
     desc: "A Netflix homepage clone built with React JS, focusing on layout, styling, responsive design. Here I used firebase for authentication.",
     w_img: Netflix_img,
-    link: "https://movie-ui-clone-rosy.vercel.app/login",
+    link: "https://movie-ui-clone-rosy.vercel.app/",
   },
   {
     w_no: 2,
