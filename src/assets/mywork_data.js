@@ -19,14 +19,14 @@ const mywork_data = [
     title: "E-Commerce Website",
     desc: "An online store built with React and Ant Design. Includes product listing, shopping cart, and checkout workflow.",
     w_img: E_Commerce_website,
-    link: "https://e-commerce-website-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=M1RCRFiYZOZgk5MOGgwkZfd9j5DT9BoG",
+    link: "https://e-commerce-website-two-coral.vercel.app/",
   },
   {
     w_no: 3,
     title: "Weather App",
     desc: "A weather forecast application using React and OpenWeather API to display live weather data with responsive UI.",
     w_img: Weather_App,
-    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=XkBXi3jj9RwyUd3LSdKPivpGBAuAe00p",
+    link: "https://weather-app-six-khaki-17.vercel.app/",
   },
   {
     w_no: 4,
