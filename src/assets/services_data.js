@@ -27,7 +27,7 @@ const Services_Data = [
     s_no: "05",
     s_name: "UI/UX Implementation",
     s_desc:
-      "I implement clean designs using frameworks like Ant Design and Tailwind CSS.",
+      "I implement clean designs using UI libraries like Ant Design and Tailwind CSS.",
   },
   {
     s_no: "06",
