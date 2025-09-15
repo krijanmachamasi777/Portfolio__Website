@@ -26,7 +26,7 @@ const mywork_data = [
     title: "Weather App",
     desc: "A weather forecast application using React and OpenWeather API to display live weather data with responsive UI.",
     w_img: Weather_App,
-    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=XkBXi3jj9RwyUd3LSdKPivpGBAuAe00pf",
+    link: "https://weather-app-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=XkBXi3jj9RwyUd3LSdKPivpGBAuAe00p",
   },
   {
     w_no: 4,
