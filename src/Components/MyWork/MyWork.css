@@ -20,11 +20,9 @@
 
 .mywork-title img {
     position: absolute;
-    bottom: -10px;
-    right: 0;
+    bottom:0;
+    right:0;
     z-index: -1;
-    width: 150px;
-    opacity: 0.2;
 }
 
 .mywork-container {
