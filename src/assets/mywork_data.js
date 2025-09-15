@@ -12,7 +12,7 @@ const mywork_data = [
     title: "Netflix UI Clone",
     desc: "A Netflix homepage clone built with React JS, focusing on layout, styling, responsive design. Here I used firebase for authentication.",
     w_img: Netflix_img,
-    link: "https://movie-ui-clone-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=xK1csMix88qhiOaFTxUqNIwxRXYoM5ye",
+    link: "https://movie-ui-clone-rosy.vercel.app/login",
   },
   {
     w_no: 2,
@@ -40,14 +40,14 @@ const mywork_data = [
     title: "Basic HTML & CSS Project",
     desc: "A beginner project created with pure HTML and CSS to strengthen fundamentals of layout and styling.",
     w_img: Basic_project,
-    link: "https://basic-html-css-git-main-krijanmachamasi777s-projects.vercel.app?_vercel_share=lqdIEOLw38HNnetC3eCdOGymqUWVWgTK",
+    link: "https://basic-html-css.vercel.app/",
   },
   {
     w_no: 6,
     title: "To-Do List App",
     desc: "A task manager built with React that allows adding, deleting, and managing tasks with local state.",
     w_img: Todo_list,
-    link: "https://todo-list-8znja2hpp-krijanmachamasi777s-projects.vercel.app?_vercel_share=sKmnkMwgj5ukwsFkDnzsEdzOhx0mNfD3",
+    link: "https://todo-list-six-kappa-15.vercel.app/",
   },
 ];
 
