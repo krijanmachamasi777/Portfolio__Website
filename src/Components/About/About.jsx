@@ -11,7 +11,7 @@ const About = () => {
             </div>
             <div className="about-sections">
                 <div className="about-left">
-                    <img src="https://ik.imagekit.io/bnpgsmexh/Protfolio%20projects/mypic.jpg?updatedAt=1758105448803" alt="" />
+<img src="https://ik.imagekit.io/bnpgsmexh/Protfolio%20projects/mypic.jpg?tr=w-500,q-80,f-auto" alt="profile" />
                 </div>
 
                 <div className="about-right">
