@@ -45,8 +45,15 @@
 .hero-resume{
      padding: 25px 45px;
     border-radius: 50px;
-    border: 2px solid #fff;
+    border: 2px solid #f5f50b;
       cursor: pointer;
+    
+
+}
+.hero-resume a{
+    color:#fff;
+    text-decoration: none;
+    
 }
 .hero-connect:hover{
     border:2px solid white;
