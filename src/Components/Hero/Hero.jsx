@@ -7,7 +7,7 @@ const Hero = () => {
     <div id="home" className='hero'>
       <img src="https://ik.imagekit.io/bnpgsmexh/Protfolio%20projects/mypic.jpg?updatedAt=1758105448803" alt="" />
       <h1><span>I'm Krijan Machamasi ,</span> frontend developer based in Nepal.</h1>
-      <p>I am a frontend developer from Bhakapur,Nepal with 1 years of experience in mulitiple companies .</p>
+      <p>I am a frontend developer from Bhakapur,Nepal with 1 years of experience.</p>
       <div className="hero-action">
         <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink></div>
         <div className="hero-resume">My resume</div>
