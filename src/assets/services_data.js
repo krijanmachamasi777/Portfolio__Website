@@ -31,9 +31,9 @@ const Services_Data = [
   },
   {
     s_no: "06",
-    s_name: "Coming Soon",
+    s_name: "Backend Development",
     s_desc:
-      "I am currently learning new skills like Next.js, digital marketing. These will be available as future services.",
+      "I create server-side applications using Node.js and Express.js, handling database operations with MongoDB.",
   },
 ];
 

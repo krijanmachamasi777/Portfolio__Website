@@ -16,7 +16,7 @@ const About = () => {
 
                 <div className="about-right">
                     <div className="about-para">
-                        <p>I am an experienced Frontend Developer with over 1 year of experience . </p>
+                        <p>I am an experienced Full - Stack Developer with over 1 year of experience . </p>
                         <p>My passion for frontend development goes beyond writing code — it’s about crafting seamless, interactive experiences that connect design with functionality and bring ideas to life on every screen.</p>
                     </div>
 
@@ -28,7 +28,10 @@ const About = () => {
                             <p>React JS</p><hr style={{ width: "65%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>Javascript</p><hr style={{ width: "60%" }} />
+                            <p>Mongo DB</p><hr style={{ width: "60%" }} />
+                        </div>
+                         <div className="about-skill">
+                            <p>Express JS</p><hr style={{ width: "60%" }} />
                         </div>
                         <div className="about-skill">
                             <p>Node JS</p><hr style={{ width: "30%" }} />
