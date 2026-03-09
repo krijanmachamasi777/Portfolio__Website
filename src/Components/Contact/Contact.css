@@ -81,7 +81,8 @@ position: relative;
     font-size:20px;
 }
 .contact-right textarea{
-    width:650px;
+    width:700px;
+    height: 150px;
     border:none;
     padding: 25px;
     border-radius: 4px;
