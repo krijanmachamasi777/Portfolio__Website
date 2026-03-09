@@ -29,27 +29,27 @@ const mywork_data = [
     w_img: E_Commerce_website,
     link: "https://e-commerce-website-two-coral.vercel.app/",
   },
-  {
-    w_no: 4,
-    title: "Weather App",
-    desc: "A weather forecast application using React and OpenWeather API to display live weather data with a responsive UI.",
-    w_img: Weather_App,
-    link: "https://weather-app-six-khaki-17.vercel.app/",
-  },
-  {
-    w_no: 5,
-    title: "Rock Paper Scissors Game",
-    desc: "A simple game built with React and JavaScript logic to practice state management and event handling.",
-    w_img: Rockpaer,
-    link: "https://rock-paper-scissor-snowy-eta.vercel.app/",
-  },
-  {
-    w_no: 6,
-    title: "Basic HTML & CSS Project",
-    desc: "A beginner project created with pure HTML and CSS to strengthen fundamentals of layout and styling.",
-    w_img: Basic_project,
-    link: "https://basic-html-css.vercel.app/",
-  },
+//   {
+//     w_no: 4,
+//     title: "Weather App",
+//     desc: "A weather forecast application using React and OpenWeather API to display live weather data with a responsive UI.",
+//     w_img: Weather_App,
+//     link: "https://weather-app-six-khaki-17.vercel.app/",
+//   },
+//   {
+//     w_no: 5,
+//     title: "Rock Paper Scissors Game",
+//     desc: "A simple game built with React and JavaScript logic to practice state management and event handling.",
+//     w_img: Rockpaer,
+//     link: "https://rock-paper-scissor-snowy-eta.vercel.app/",
+//   },
+//   {
+//     w_no: 6,
+//     title: "Basic HTML & CSS Project",
+//     desc: "A beginner project created with pure HTML and CSS to strengthen fundamentals of layout and styling.",
+//     w_img: Basic_project,
+//     link: "https://basic-html-css.vercel.app/",
+//   },
 ];
 
 export default mywork_data;
