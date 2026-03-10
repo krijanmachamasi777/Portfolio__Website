@@ -128,7 +128,7 @@ position: relative;
         font-size: 54px;
     }
     .contact-left p{
-        font-size: 18px;
+        font-size: 15px;
 
     }
     .contact-detail{
@@ -141,11 +141,11 @@ position: relative;
         font-size: 20px;
     }
     .contact-right input{
-        width:100%;
-        font-size: 20px;
+        width:90%;
+        font-size: 15px;
     }
     .contact-right textarea{
-        width: 95%;
+        width: 90%;
         font-size:20px;
     }
     .contact-submit{

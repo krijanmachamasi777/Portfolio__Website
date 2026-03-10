@@ -50,6 +50,7 @@
     opacity: 0.8;
 }
 
+
 @media(max-width:768px){
     .footer{
         margin:50px 70px;
@@ -72,4 +73,8 @@
         width: 25px;
         height: 25px;
     }
+    .footer-bottom-right{
+        font-size: 12px;
+    }
+    
 }

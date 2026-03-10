@@ -5,6 +5,7 @@ import github from '../../assets/github.svg'
 import facebook_icon from '../../assets/facebook_icon.png'
 import instagram from '../../assets/instagram.svg'
 import linkedin from '../../assets/linkedin.svg'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 const Footer = () => {
     return (
@@ -26,11 +27,12 @@ const Footer = () => {
             </div>
             <hr />
             <div className="footer-bottom">
-                <p className="footer-bottom-left">@ 2025 Krijan Machamasi . All rights reserved .</p>
+                <p className="footer-bottom-left">@ 2026 Krijan Machamasi . All rights reserved .</p>
                 <div className="footer-bottom-right">
                     <p>Terms of Services</p>
                     <p>Privacy Policy</p>
-                    <p>Connect with me</p></div>
+                            <div className="connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink> </div>
+                    </div>
             </div>
         </div>
     )
